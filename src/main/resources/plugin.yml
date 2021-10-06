@@ -1,0 +1,8 @@
+name: MusicCreatePlugin
+version: 1.0
+main: tororo1066.musiccreateplugin.MusicCreatePlugin
+api-version: 1.17
+
+commands:
+  music:
+    permission: music.user
